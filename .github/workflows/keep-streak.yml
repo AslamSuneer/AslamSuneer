@@ -1,0 +1,25 @@
+name: 🕒 Keep GitHub Streak Alive
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # Runs every day at 4:00 AM UTC
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Keep the streak going
+        run: |
+          echo "// $(date)" >> keep-streak.txt
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "AslamSuneer"
+          git config --global user.email "aslamsuneer755@gmail.com"
+          git add keep-streak.txt
+          git commit -m "📆 Keep streak alive on $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
