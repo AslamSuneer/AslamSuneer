@@ -20,7 +20,8 @@
 
 ## 🔥 Contribution Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamsuneer&theme=dark&hide_border=true&background=0D1117&stroke=0E75B6&ring=0E75B6&currStreakLabel=0E75B6" alt="Contribution Streak" />
+  <!-- Corrected image syntax with exclamation mark -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aslamsuneer&theme=dark&hide_border=true&background=0D1117&stroke=0E75B6&ring=0E75B6&currStreakLabel=0E75B6)
 </div>
 
 ## 💼 About Me
