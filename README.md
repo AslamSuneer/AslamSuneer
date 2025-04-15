@@ -51,8 +51,9 @@
   </a>
 </div>
 
+<!-- Computer Engineering Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AslamSuneer/AslamSuneer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" alt="Computer Engineering Animation" />
 </div>
 
 ---
