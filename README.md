@@ -20,7 +20,7 @@
 
 ## 🔥 Contribution Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aslamsuneer&theme=dark&hide_border=true&background=0D1117&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakNum=0E75B6&sideNums=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AslamSuneer&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ## 💼 About Me
