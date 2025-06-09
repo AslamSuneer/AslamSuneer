@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi, I'm <strong>Aslam Suneer</strong> 👋<br />
-  <sub>Open Source • Developer • Learner</sub>
+  🌟 <span style="color:#00C9A7;">Aslam</span> <span style="color:#FF6363;">Suneer</span> 🌟
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Open+Source+Contributor;Full-Stack+Developer;Lifelong+Learner;Problem+Solver;Tech+Explorer" alt="Typing Intro" />
