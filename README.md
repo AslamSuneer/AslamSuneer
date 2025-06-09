@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00F9A6&center=true&vCenter=true&width=500&lines=Aslam+Suneer;Open+Source+Contributor;Full+Stack+Developer" alt="Typing Animation" />
-</p>
+<h1 align="center">
+  <code>$ <strong style="color:#2EC4B6;">Aslam Suneer</strong> <span style="color:gray">|</span></code>
+</h1>
+
 
 
 <p align="center">
