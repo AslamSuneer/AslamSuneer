@@ -1,91 +1,61 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aslam+Suneer;Coding+My+Way+Through+Life;Loves+Open+Source+%26+Problem+Solving" />
-</p>
+# <div align="center">👨‍💻 Aslam Suneer</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=500&lines=Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+</div>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Open+Source+Contributor;Full-Stack+Developer;Lifelong+Learner;Problem+Solver;Tech+Explorer" alt="Typing Intro" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aslamsuneer&label=Profile+Views&color=2EC4B6&style=flat-square" alt="View Counter" />
-  <img src="https://img.shields.io/github/followers/aslamsuneer?label=Followers&style=flat-square&color=2EC4B6" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Passionate Computer Science student & tech enthusiast  
-- 🌱 Currently learning full-stack development & cloud computing  
-- 🔭 Working on personal projects & open source  
-- 💬 Ask me about `Python`, `Java`, `Databases`, or `Git`  
-- 📫 Reach me: **aslamsuneer755@gmail.com**  
-- 🧠 Always growing, always building 🚀  
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,oracle,git,github,vscode,linux" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aslamsuneer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamsuneer&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aslamsuneer&theme=github-dark&hide_border=true&border_radius=6" />
-</p>
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aslamsuneer&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aslamsuneer&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aslamsuneer&theme=onedark&no-frame=true&no-bg=true&margin-w=12" />
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aslamsuneer&show_icons=true&count_private=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=c9d1d9&bg_color=0d1117" alt="Aslam Suneer's GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamsuneer&layout=compact&hide_border=true&title_color=0E75B6&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
+</div>
 
----
+## 🔥 Contribution Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AslamSuneer&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-## 🌐 Connect with Me
+## 💼 About Me
+- 🔭 I'm currently focused on expanding my programming skills
+- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/AslamSuneer?tab=repositories)
+- 🌱 I'm constantly learning and improving my skills
+- 💬 Ask me about programming, problem-solving and open source
+- 📫 How to reach me: **aslamsuneer755@gmail.com**
 
-<p align="center">
+## 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,oracle,git,github,vscode" alt="Languages and Tools" />
+</div>
+
+## 🔗 Connect with me
+<div align="center">
   <a href="https://www.linkedin.com/in/aslam-suneer-32738024a/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/aslam.suneer.5">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/___aslam._">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:aslamsuneer755@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" alt="Computer Engineering Animation" />
+</div>
 
 ---
-
-## 📌 Inspirational Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
+</div>
