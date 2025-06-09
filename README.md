@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=👨‍💻+Aslam+Suneer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00F9A6&center=true&vCenter=true&width=500&lines=Aslam+Suneer;Open+Source+Contributor;Full+Stack+Developer" alt="Typing Animation" />
 </p>
-
 
 
 <p align="center">
