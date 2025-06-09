@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2EC4B6&center=true&vCenter=true&width=500&lines=Hi+I'm+Aslam+Suneer" alt="Typing SVG" />
-</p>
+<h1 align="center">👨‍💻 <strong><span style="font-family: 'Fira Code'; color: #2EC4B6;">Aslam Suneer</span></strong> 👨‍💻</h1>
+
 
 
 <p align="center">
