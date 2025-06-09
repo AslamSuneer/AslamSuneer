@@ -1,6 +1,6 @@
-<h1 align="center">
-  🌟 <span style="color:#00C9A7;">Aslam</span> <span style="color:#FF6363;">Suneer</span> 🌟
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2EC4B6&center=true&vCenter=true&width=500&lines=Hi+I'm+Aslam+Suneer" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
