@@ -1,61 +1,75 @@
-# <div align="center">👨‍💻 Aslam Suneer</div>
+# <div align="center">🚀 Aslam Suneer</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=500&lines=Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aslamsuneer&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://komarev.com/ghpvc/?username=aslamsuneer&label=Profile+Views&color=6366F1&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://wakatime.com/@aslamsuneer">
+    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=flat&color=6366F1" alt="Wakatime stats" />
+  </a>
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/AslamSuneer/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AslamSuneer&repo=project1&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/AslamSuneer/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AslamSuneer&repo=project2&theme=radical&show_owner=true" />
+  </a>
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aslamsuneer&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=AslamSuneer&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AslamSuneer&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aslamsuneer&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aslamsuneer&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aslamsuneer&show_icons=true&count_private=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=c9d1d9&bg_color=0d1117" alt="Aslam Suneer's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamsuneer&layout=compact&hide_border=true&title_color=0E75B6&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode,figma&perline=8" alt="Tech Stack" />
 </div>
 
-## 🔥 Contribution Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AslamSuneer&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+## 📌 Pinned Repositories
 
-## 💼 About Me
-- 🔭 I'm currently focused on expanding my programming skills
-- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/AslamSuneer?tab=repositories)
-- 🌱 I'm constantly learning and improving my skills
-- 💬 Ask me about programming, problem-solving and open source
-- 📫 How to reach me: **aslamsuneer755@gmail.com**
-
-## 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,oracle,git,github,vscode" alt="Languages and Tools" />
-</div>
-
-## 🔗 Connect with me
-<div align="center">
-  <a href="https://www.linkedin.com/in/aslam-suneer-32738024a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/AslamSuneer/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AslamSuneer&repo=repo1&theme=dark" />
   </a>
-  <a href="https://facebook.com/aslam.suneer.5">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/___aslam._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:aslamsuneer755@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://github.com/AslamSuneer/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AslamSuneer&repo=repo2&theme=dark" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" alt="Computer Engineering Animation" />
-</div>
+## 💬 About Me
 
----
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
-</div>
+```python
+class AslamSuneer:
+    def __init__(self):
+        self.name = "Aslam Suneer"
+        self.role = "Full Stack Developer"
+        self.languages = ["Python", "Java", "JavaScript", "C/C++"]
+        self.learning = ["React", "Node.js", "Cloud Computing"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my profile!")
+        
+me = AslamSuneer()
+me.say_hi()
